@@ -662,3 +662,119 @@ a.sitename {
 #main.register-page .btn-reset:hover {
 	background: linear-gradient(to bottom, #658c75 0%, #446651 100%);
 }
+
+/*------------------------------ MEDIA PAGE ------------------------------*/
+#main.media-page {
+	background-color: #ffffff;
+	min-height: 1250px;
+	width: 666px;
+	padding: 24px 28px 30px;
+	box-sizing: border-box;
+}
+#main.media-page article header h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 26px;
+	font-weight: normal;
+	color: #7e501c;
+	margin: 0 0 8px;
+	text-shadow: none;
+	text-align: left;
+}
+#main.media-page .meta {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #555555;
+	margin: 0 0 20px;
+	padding: 0;
+	text-align: left;
+}
+#main.media-page .meta a {
+	color: #333333;
+	text-decoration: underline;
+}
+#main.media-page .media-figure {
+	margin: 0 0 22px;
+	padding: 0;
+}
+#main.media-page .media-figure img {
+	display: block;
+	width: 440px;
+	max-width: 100%;
+	height: auto;
+	margin: 0 auto;
+	border: 1px solid #777777;
+}
+#main.media-page .media-figure figcaption {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #222222;
+	margin: 6px auto 0;
+	width: 440px;
+	max-width: 100%;
+	text-align: left;
+}
+#main.media-page section {
+	margin: 0 0 22px;
+}
+#main.media-page section h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 15px;
+	font-weight: bold;
+	color: #111111;
+	text-align: center;
+	margin: 0 0 10px;
+	line-height: normal;
+}
+#main.media-page section p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	line-height: 20px;
+	color: #333333;
+	margin: 0 0 12px;
+	padding: 0;
+	text-align: left;
+}
+#main.media-page .media-box {
+	width: 440px;
+	max-width: 100%;
+	margin: 0 auto 10px;
+}
+#main.media-page .media-box video {
+	display: block;
+	width: 100%;
+	height: auto;
+	background-color: #000000;
+	border: 1px solid #777777;
+}
+#main.media-page .media-box iframe {
+	display: block;
+	width: 100%;
+	height: 230px;
+	border: 1px solid #777777;
+}
+#main.media-page .audio-box {
+	margin: 0 0 10px;
+}
+#main.media-page .audio-box audio {
+	display: block;
+	width: 320px;
+	max-width: 100%;
+}
+#main.media-page .article-footer {
+	border-top: 1px solid #eeeeee;
+	padding-top: 10px;
+	margin-top: 24px;
+}
+#main.media-page .article-footer p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	color: #555555;
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+#main.media-page .article-footer a {
+	color: #333333;
+	text-decoration: underline;
+}
