@@ -200,7 +200,9 @@ a.sitename {
 	margin: 0 24px 0 12px;
 	padding: 12px 12px 22px;
 }
-#main div.body {
+#main div.body,
+#main section.body,
+#main .body {
 	padding: 0 30px;
 }
 /** list **/
@@ -280,7 +282,9 @@ a.sitename {
 	width: 229px;
 	margin-left: 5px;
 }
-#sidebar div.section {
+#sidebar div.section,
+#sidebar section.section,
+#sidebar .section {
 	background: url(../images/box-shadow-bottom.png) no-repeat left bottom;
 	margin: 0 0 24px;
 	padding: 0 0 6px;
